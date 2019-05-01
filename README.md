@@ -1,4 +1,4 @@
-# Simple E-Commerce cart application built with React & Redux
+# Simple E-Commerce Shopping cart application built with React & Redux
 
 This simple application prototype shows how we can use React and Redux to build a friendly user experience with instant visual updates for E-Commerce shopping cart.
 
